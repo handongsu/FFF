@@ -71,7 +71,7 @@
   
   - **회원가입**
   
-  <p align="center><img width="995" alt="휴대폰 인증" src="https://user-images.githubusercontent.com/105100402/232293280-14c7a9e9-419a-4369-a6f6-e4cf83228732.png"></p>
+  <img width="995" alt="휴대폰 인증" src="https://user-images.githubusercontent.com/105100402/232295001-17fc7d8f-ecef-437a-9193-66407a8cc7b7.png">
 
 
 
