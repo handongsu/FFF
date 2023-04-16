@@ -188,5 +188,11 @@
 
 - **자주묻는질문**
 
+<p align="center"><img width="924" alt="FAQ" src="https://user-images.githubusercontent.com/105100402/232292421-2c197162-5bde-4710-912c-94f4ee52b08a.png"></p>
+
+- ####관리자페이지(문의게시판)
+
+
+<p align="center"><img width="931" alt="관리자페이지" src="https://user-images.githubusercontent.com/105100402/232292471-777e77c7-d63d-4e03-9a19-3e6adef41602.png"></p>
 
 
