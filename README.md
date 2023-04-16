@@ -184,5 +184,9 @@
 
 - #### 문의 게시판
 
+<p align="center"><img width="932" alt="문의게시판" src="https://user-images.githubusercontent.com/105100402/232291985-952e564f-32e5-4026-8b36-5ffc2d31a17b.png"></p>
+
+- **자주묻는질문**
+
 
 
