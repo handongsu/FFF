@@ -62,9 +62,10 @@
 
   <p align="center"><img src="https://github.com/jjwa2/-FFF/blob/master/이미지파일/메인화면.gif?raw=true"/></p>
   
-- **로그인**
+  
+  - **로그인**
  
- <img width="930" alt="스크린샷 2023-04-16 오후 4 38 48" src="https://user-images.githubusercontent.com/105100402/232283293-f78ba26e-de74-4688-b45d-1d5220bf11cb.png">
+ <p align="center"><img width="930" alt="스크린샷 2023-04-16 오후 4 38 48" src="https://user-images.githubusercontent.com/105100402/232283293-f78ba26e-de74-4688-b45d-1d5220bf11cb.png"></p>
   
   
   
@@ -181,7 +182,7 @@
 
 ------
 
-
+- #### 문의 게시판
 
 
 
