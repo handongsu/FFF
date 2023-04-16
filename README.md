@@ -70,6 +70,10 @@
   
   
   - **회원가입**
+  
+  <p align="center><img width="995" alt="휴대폰 인증" src="https://user-images.githubusercontent.com/105100402/232293280-14c7a9e9-419a-4369-a6f6-e4cf83228732.png"></p>
+
+
 
   <p align="center"><img src="https://github.com/jjwa2/-FFF/blob/master/이미지파일/휴대폰인증.gif?raw=true"/></p>
 
@@ -186,13 +190,17 @@
 
 <p align="center"><img width="932" alt="문의게시판" src="https://user-images.githubusercontent.com/105100402/232291985-952e564f-32e5-4026-8b36-5ffc2d31a17b.png"></p>
 
+1.글 작성할 때 비밀글 체크 시 관리자와 작성자만 글제목과 글내용을 확인할 수 있고 다른 사용자는 노란글씨로 '비밀글입니다'로 보이며 클릭 시 alert창에 '비밀글입니다'라고 뜨며 볼 수 없음
+2.관리자가 미답변인 글에 답변을 작성 시 미답변 -> 답변완료로 상태 변경
+
 - **자주묻는질문**
 
 <p align="center"><img width="924" alt="FAQ" src="https://user-images.githubusercontent.com/105100402/232292421-2c197162-5bde-4710-912c-94f4ee52b08a.png"></p>
 
-- ####관리자페이지(문의게시판)
 
+
+- ####관리자페이지(문의게시판)
 
 <p align="center"><img width="931" alt="관리자페이지" src="https://user-images.githubusercontent.com/105100402/232292471-777e77c7-d63d-4e03-9a19-3e6adef41602.png"></p>
 
-
+1.미답변인 문의글만 보이도록 구현했고 제목 클릭시 해당글 페이지로 
