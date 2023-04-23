@@ -1,12 +1,4 @@
-/**
- * <pre>
- * 프로젝트명 : HiBoard
- * 패키지명   : com.icia.web.controller
- * 파일명     : UserController.java
- * 작성일     : 2021. 1. 20.
- * 작성자     : daekk
- * </pre>
- */
+
 package com.icia.web.controller;
 
 import java.util.Random;
@@ -249,8 +241,6 @@ public class UserController
 				user.setUserAdd(userAdd);
 				user.setUserAdd2(userAdd2);
 				user.setUserTel(userTel);
-				//user.setUserDate(userDate);
-				//user.setUserGender(userGender);
 				user.setUserBirth(userBirth);
 				user.setStatus("Y");
 				
