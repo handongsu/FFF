@@ -1,12 +1,4 @@
-/**
- * <pre>
- * 프로젝트명 : HiBoard
- * 패키지명   : com.icia.web.dao
- * 파일명     : UserDao.java
- * 작성일     : 2021. 1. 19.
- * 작성자     : daekk
- * </pre>
- */
+
 package com.icia.web.dao;
 
 import java.util.List;
