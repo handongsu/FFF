@@ -1,12 +1,4 @@
-/**
- * <pre>
- * 프로젝트명 : HiBoard
- * 패키지명   : com.icia.web.service
- * 파일명     : UserService.java
- * 작성일     : 2021. 1. 20.
- * 작성자     : daekk
- * </pre>
- */
+
 package com.icia.web.service;
 
 import java.util.HashMap;
